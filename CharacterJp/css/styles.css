@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital@1&display=swap');@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+
+body {
+    background-image: linear-gradient(to top, #acc4ef, #76a5bc, #588387, #486058, #373e35);
+        font-family: fantasy
+    
+
+}
+
+h1{
+font-family:'Tangerine', cursive;
+}
+
+
+
+header{
+    background-image: linear-gradient(to top, #acc4ef, #76a5bc, #588387, #486058, #373e35);
+    text-align: center;
+    padding: 60px;
+    
+    font-family: 'Alex Brush', cursive;
+    background-attachment: fixed;
+}
+
+
+
+#grad1 {
+    height: 200px;
+    background-color: rgb(3, 65, 93);
+    background-image: linear-gradient(skyblue, lightgreen);
+}
+
+
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: deepskyblue;
+}
+
+
+
+
+
+    /*------NAV-------*/
+
+nav li{
+    list-style: none;
+
+}
+
+
+
+
+
+
+    nav a, nav a:visited {
+        display: block;
+        padding: 20px;
+        text-decoration: lawngreen;
+        color: rgb(48, 30, 141);
+    }
+
+    nav a:hover {
+        background-color: rgba(46, 48, 42, 0);
+        color: aqua;
+    }
+    .Sticky{
+        position:-webkit-sticky;
+        position: sticky;
+        top: 0;
+        background-image: linear-gradient(to bottom, #50f181, #6ad769, #74bd56, #77a447, #748c3d);
+        margin: 0 auto;
+        padding: 5px;
+        overflow: hidden;
+        top: 0;
+    }
+
+    section {
+        background-color: lemonchiffon;
+        width: 70vw;
+        margin: auto;
+        padding: 20px;
+    }
+
+    footer{
+        background-color:lemonchiffon;
+        font-size: large;
+        margin:auto;
+
+    }
+    
