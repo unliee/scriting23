@@ -1,0 +1,25 @@
+header{
+    background-image: url('../images/dogSitting.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+}
+
+#serviceHeader{
+    background-image: url('../images/backgrounds/servicesHeader.jpg');
+}
+
+.bg-purple{
+    background-color: rgb(0, 85, 21);
+}
+
+.nav-link{
+    color:rgb(215, 171, 254) !important;
+}
+.navbar-brand{
+    color:rgb(255, 163, 142) !important;
+}
+
+footer a, footer a:visited{
+    color: rgb(235, 190, 254);
+}
