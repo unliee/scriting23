@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Cookie&display=swap');
+
+
+
+header{
+
+    background-image: url(../images/backgroundImgEnjoy.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+ }  
+
+
+
+ h1{
+    font-family: cookie;
+  }  
+
+
+
+.bg-understand{
+    background-color: rgba(9, 120, 194, 0.6);
+}
+
+
+.bg-black{
+    background-color: black;
+}
+   
+
+
+
+
+body{
+    background-image: url(../images/colors.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Bad Script;
+    
+}
+    
+
+
+.bg-green{
+    background-color: rgb(174, 241, 207);
+}
+
+.icon {
+    position: relative;
+    width: 50px;
+    height: 40px;
+    background-color: lightgreen;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+ }
